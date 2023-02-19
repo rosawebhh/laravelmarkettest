@@ -1,0 +1,22 @@
+{
+  "name": "rosawebhh/laravelmarkettest",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/rosa-web-hh/laravel-market-test",
+  "autoload": {
+    "psr-4": {
+      "Rsc\\Core\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roland Sager",
+      "email": "info@rolandsager.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.1"
+  },
+  "prefer-stable": true
+}
