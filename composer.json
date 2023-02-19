@@ -2,7 +2,7 @@
   "name": "rosawebhh/laravelmarkettest",
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/rosa-web-hh/laravel-market-test",
+  "homepage": "https://github.com/rosawebhh/laravelmarkettest",
   "autoload": {
     "psr-4": {
       "Rsc\\Core\\": "src/"
